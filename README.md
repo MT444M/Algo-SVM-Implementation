@@ -1,1 +1,3 @@
 # Algo-SVM-Implementation
+
+Ce repository contient une implémentation complète des Support Vector Machines (SVM) en utilisant différentes approches, y compris la résolution du problème primal et dual, ainsi que l'utilisation de noyaux gaussiens et polynomiaux. Le code est accompagné d'une documentation détaillée, d'exemples d'utilisation et d'illustrations graphiques pour aider à la compréhension et à l'application des SVM. Explorez les différentes sections pour approfondir votre compréhension des SVM et de leurs applications, que ce soit pour des données linéairement ou non linéairement séparables
